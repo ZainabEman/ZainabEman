@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
 <h3 align="centre">I’m Zainab Eman, a software engineering student at FAST-NUCES, Faisalabad, with a deep passion for <b>AI</b> and expertise in <b>front-end web development</b> and <b>UI/UX design</b>. Proficient in <b>Python</b> and always eager to learn, I am currently diving into the world of cryptocurrency with a strong interest in <b>blockchain technology</b>. Connect with me on LinkedIn or GitHub to discuss innovative tech ideas and collaborations</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/developer-programming-computer-creates-software-coding-laptop_530733-2698.jpg
-">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/developer-programming-computer-creates-software-coding-laptop_530733-2698.jpg">
 
 - 🔭 I’m currently working on **Blockchain🧩**
 
