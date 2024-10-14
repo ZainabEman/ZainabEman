@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab</h1>
-<h3 align="center">I’m Zainab Eman, a software engineering student at FAST-NUCES, Faisalabad, with a deep passion for AI and expertise in front-end web development and UI/UX design. Proficient in Python and always eager to learn, I am currently diving into the world of Ai and ML with a strong interest in Generative Ai. Connect with me on LinkedIn or GitHub to discuss innovative tech ideas and collaborations</h3>
+<h4 align="center">I’m Zainab Eman, a software engineering student at FAST-NUCES, Faisalabad, with a deep passion for AI and expertise in front-end web development and UI/UX design. Proficient in Python and always eager to learn, I am currently diving into the world of Ai and ML with a strong interest in Generative Ai. Connect with me on LinkedIn or GitHub to discuss innovative tech ideas and collaborations</h4>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/developer-programming-computer-creates-software-coding-laptop_530733-2698.jpg">
 
