@@ -33,3 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabeman&show_icons=true&locale=en" alt="zainabeman" /></p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZainabEman/ZainabEman/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
