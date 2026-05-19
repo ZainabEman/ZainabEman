@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **literally anything, I may or may not have an answer 😃**
 
-- 📫 Hit me up at **zainabeman976@gmail.com**
+- 📫 Hit me up at **zainab.emannn@gmail.com**
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
