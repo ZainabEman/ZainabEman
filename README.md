@@ -29,9 +29,4 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZainabEman/ZainabEman/output/snake.svg" alt="snake animation">
-</p>
-
-
 
